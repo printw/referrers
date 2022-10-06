@@ -1,4 +1,6 @@
 # referrers
+⚠️ If you see any inaccuracies or want to add or remove yourself from the list, either **create a PR**, or create an issue, or [DM me in Telegram](https://t.me/mr_omti).
+
 | Company              | Contact                 | Any comments                      |
 | -------------------- | ----------------------- | --------------------------------- |
 | Adevinta | yury.kashnitsky@gmail.com | I'm not in Adevinta myself, but I'm ready to send strong candidates to the engineering manager. Priority for victims of war. |
