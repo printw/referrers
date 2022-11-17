@@ -66,7 +66,7 @@
 | Google | artem.kalchenko@gmail.com |  |
 | Google | baurnext@gmail.com |  |
 | Google | denkuzin@gmail.com | Will refer, and also can tell you about the processes and the company |
-| Google | oaitbekov@gmail.com |  |
+| Google | oaitbekov@gmail.com |  | prefer pinging in telegram @korzhik123
 | Google | snailandmail@gmail.com |  |
 | Google | https://t.me/aatalyk | Participation in contests is preffered but not required |
 | Google | https://t.me/adiletzx | No internships, sorry |
@@ -181,7 +181,6 @@
 | Yandex | https://t.me/FadeevS | Can refer and answer your questiong during or before and after the whole process |
 | Yandex | https://t.me/inal2i | CV |
 | Yandex | https://t.me/ioart | Resume, job link. Can tell you about the backend of Yandex.Market |
-| Yandex | https://t.me/korzhik123 |  |
 | Yandex | https://t.me/neevin |  |
 | Yandex | https://t.me/sumekenov | Work experience and/or leetcode/codeforces |
 | Yandex | https://t.me/velavokr | Resume or link to linkedin. We are actively looking for an SRE in Yandex.Cloud (development + experience in networks/kernel/virtualization), but I can refer to any team. |
