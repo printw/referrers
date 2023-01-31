@@ -182,7 +182,6 @@
 | Yandex | https://t.me/inal2i | CV |
 | Yandex | https://t.me/ioart | Resume, job link. Can tell you about the backend of Yandex.Market |
 | Yandex | https://t.me/neevin |  |
-| Yandex | https://t.me/sumekenov | Work experience and/or leetcode/codeforces |
 | Yandex | https://t.me/velavokr | Resume or link to linkedin. We are actively looking for an SRE in Yandex.Cloud (development + experience in networks/kernel/virtualization), but I can refer to any team. |
 | Yelp | https://t.me/gaziz17 | 2-3 sentences covering why you are qualified for this position, if possible |
 | Zalando | https://t.me/meticulous_masterplan | Berlin, interviews are easier than FAANG ones |
